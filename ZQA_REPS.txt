@@ -12,6 +12,7 @@ REPORT  ZQA.
 *test1
 *test2
 *test for a change CHANGE LINE
+* Yes this is the case
 ***************************ADDD LINE
 *change V2 test
 tables: vrsx2.
