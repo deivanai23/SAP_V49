@@ -1,0 +1,4 @@
+method CONSTRUCTOR.
+*/TEST LINE COMMENT
+"me->x = '2'.
+endmethod.
