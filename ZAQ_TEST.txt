@@ -1,4 +1,4 @@
-method HELLOWORLD.
+method CONSTRUCTOR.
 */TEST LINE COMMENT
-  WRITE: 'Hello world'.
+"me->x = '2'.
 endmethod.
